@@ -15,4 +15,4 @@ function FizzBuzz(num) {
     } 
 }
 
-FizzBuzz(999999);
+FizzBuzz(100);
